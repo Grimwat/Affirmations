@@ -64,7 +64,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun AffirmationsApp() {
     val LayoutDirection = LocalLayoutDirection.current
-
+    Surface () {  }
 }
 
 @Composable
